@@ -9,19 +9,19 @@ Based on [Polymer Seed Element](https://github.com/PolymerElements/seed-element)
 ### Install
 
 ```bash
-bower install plutonium-icon-input
+bower install plutonium-location-input
 ```
 
 ### Link
 
 ```html
-<link rel="import" href="bower_components/plutonium-icon-input/plutonium-icon-input.html">
+<link rel="import" href="bower_components/plutonium-location-input/plutonium-location-input.html">
 ```
 
 ### Use
 
 ```html
-<plutonium-icon-input label="Icon input label" icon="create"></plutonium-icon-input>
+<plutonium-location-input label="Location input label"></plutonium-location-input>
 ```
 
 ## Dependencies
