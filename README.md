@@ -1,7 +1,28 @@
-# seed-element
+# plutonium-location-input
+Location selector input with picker dialog, where you could use a map for define selection.
 
-An element providing a starting point for your own reusable Polymer elements.
 
+Based on [Polymer Seed Element](https://github.com/PolymerElements/seed-element)
+
+## Usage
+
+### Install
+
+```bash
+bower install plutonium-location-input
+```
+
+### Link
+
+```html
+<link rel="import" href="bower_components/plutonium-location-input/plutonium-location-input.html">
+```
+
+### Use
+
+```html
+<plutonium-location-input label="Location input label"></plutonium-location-input>
+```
 
 ## Dependencies
 
