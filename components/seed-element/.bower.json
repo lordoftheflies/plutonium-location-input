@@ -1,0 +1,36 @@
+{
+  "name": "seed-element",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "seed-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "3458de5d56",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3458de5d56b9a8b1f98c8ce6ce81b6b7904027f9"
+  },
+  "_source": "git://github.com/lordoftheflies/plutonium-location-input.git",
+  "_target": "master",
+  "_originalSource": "lordoftheflies/plutonium-location-input",
+  "_direct": true
+}
